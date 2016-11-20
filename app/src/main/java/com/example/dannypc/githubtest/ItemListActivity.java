@@ -33,7 +33,7 @@ public class ItemListActivity extends AppCompatActivity {
      * device.
      */
     private boolean mTwoPane;
-    private int inty, vvvv;
+    private int inty, vvvv, ggggg;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
